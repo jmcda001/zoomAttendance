@@ -1,0 +1,2 @@
+# Prevent accidentally uploading student information
+*.csv
